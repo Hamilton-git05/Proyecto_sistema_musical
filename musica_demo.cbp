@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="musica_demo" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/musica_demo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/musica_demo" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add option="-std=c++11" />
+		</Compiler>
+		<Unit filename="main.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="App.h" />
+		<Unit filename="App.cpp" />
+		<Unit filename="DatosPrueba.h" />
+		<Unit filename="DatosPrueba.cpp" />
+		<Unit filename="Suscriptor.h" />
+		<Unit filename="Suscriptor.cpp" />
+		<Unit filename="SuscriptorArchivo.h" />
+		<Unit filename="SuscriptorArchivo.cpp" />
+		<Unit filename="SuscriptorManager.h" />
+		<Unit filename="SuscriptorManager.cpp" />
+		<Unit filename="SuscriptorMenu.h" />
+		<Unit filename="SuscriptorMenu.cpp" />
+		<Unit filename="Plan.h" />
+		<Unit filename="Plan.cpp" />
+		<Unit filename="PlanArchivo.h" />
+		<Unit filename="PlanArchivo.cpp" />
+		<Unit filename="PlanManager.h" />
+		<Unit filename="PlanManager.cpp" />
+		<Unit filename="PlanMenu.h" />
+		<Unit filename="PlanMenu.cpp" />
+		<Unit filename="Cancion.h" />
+		<Unit filename="Cancion.cpp" />
+		<Unit filename="CancionArchivo.h" />
+		<Unit filename="CancionArchivo.cpp" />
+		<Unit filename="CancionManager.h" />
+		<Unit filename="CancionManager.cpp" />
+		<Unit filename="CancionMenu.h" />
+		<Unit filename="CancionMenu.cpp" />
+		<Unit filename="Artista.h" />
+		<Unit filename="Artista.cpp" />
+		<Unit filename="ArtistaArchivo.h" />
+		<Unit filename="ArtistaArchivo.cpp" />
+		<Unit filename="ArtistaManager.h" />
+		<Unit filename="ArtistaManager.cpp" />
+		<Unit filename="ArtistaMenu.h" />
+		<Unit filename="ArtistaMenu.cpp" />
+		<Unit filename="Genero.h" />
+		<Unit filename="Genero.cpp" />
+		<Unit filename="GeneroArchivo.h" />
+		<Unit filename="GeneroArchivo.cpp" />
+		<Unit filename="GeneroManager.h" />
+		<Unit filename="GeneroManager.cpp" />
+		<Unit filename="GeneroMenu.h" />
+		<Unit filename="GeneroMenu.cpp" />
+		<Unit filename="Acceso.h" />
+		<Unit filename="Acceso.cpp" />
+		<Unit filename="AccesoArchivo.h" />
+		<Unit filename="AccesoArchivo.cpp" />
+		<Unit filename="AccesoManager.h" />
+		<Unit filename="AccesoManager.cpp" />
+		<Unit filename="AccesoMenu.h" />
+		<Unit filename="AccesoMenu.cpp" />
+		<Unit filename="InformesManager.h" />
+		<Unit filename="InformesManager.cpp" />
+		<Unit filename="InformesMenu.h" />
+		<Unit filename="InformesMenu.cpp" />
+		<Unit filename="ConfiguracionManager.h" />
+		<Unit filename="ConfiguracionManager.cpp" />
+		<Unit filename="ConfiguracionMenu.h" />
+		<Unit filename="ConfiguracionMenu.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

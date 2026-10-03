@@ -1,0 +1,271 @@
+# depslib dependency file v1.0
+1782699497 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\acceso.cpp
+	"Acceso.h"
+
+1782699497 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\acceso.h
+	"Fecha.h"
+
+1782699498 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\fecha.h
+	<string>
+
+1782699497 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\accesoarchivo.cpp
+	"AccesoArchivo.h"
+	<cstdio>
+
+1782699497 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\accesoarchivo.h
+	"Acceso.h"
+	<string>
+
+1782699497 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\accesomanager.cpp
+	"AccesoManager.h"
+	<iostream>
+	<string>
+
+1782699497 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\accesomanager.h
+	"AccesoArchivo.h"
+	"CancionArchivo.h"
+	"SuscriptorArchivo.h"
+	"ArtistaArchivo.h"
+
+1782699498 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\cancionarchivo.h
+	"Cancion.h"
+	<string>
+
+1782699498 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\cancion.h
+	<string>
+	"Fecha.h"
+
+1782699499 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\suscriptorarchivo.h
+	"Suscriptor.h"
+	<string>
+
+1782699499 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\suscriptor.h
+	<string>
+	"Fecha.h"
+
+1782699498 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\artistaarchivo.h
+	"Artista.h"
+	<string>
+
+1782699498 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\artista.h
+	<string>
+
+1782699497 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\accesomenu.cpp
+	"AccesoMenu.h"
+	<iostream>
+
+1782699497 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\accesomenu.h
+	"AccesoManager.h"
+
+1782699497 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\app.cpp
+	"App.h"
+	<iostream>
+
+1782699497 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\app.h
+	"SuscriptorMenu.h"
+	"PlanMenu.h"
+	"CancionMenu.h"
+	"ArtistaMenu.h"
+	"GeneroMenu.h"
+	"AccesoMenu.h"
+	"InformesMenu.h"
+	"ConfiguracionMenu.h"
+
+1782699499 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\suscriptormenu.h
+	"SuscriptorManager.h"
+
+1782699499 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\suscriptormanager.h
+	"SuscriptorArchivo.h"
+	"PlanArchivo.h"
+	"GeneroArchivo.h"
+
+1782699499 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\planarchivo.h
+	"Plan.h"
+	<string>
+
+1782699499 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\plan.h
+	<string>
+
+1782699498 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\generoarchivo.h
+	"Genero.h"
+	<string>
+
+1782699498 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\genero.h
+	<string>
+
+1782699499 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\planmenu.h
+	"PlanManager.h"
+
+1782699499 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\planmanager.h
+	"PlanArchivo.h"
+
+1782699498 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\cancionmenu.h
+	"CancionManager.h"
+
+1782699498 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\cancionmanager.h
+	"CancionArchivo.h"
+	"ArtistaArchivo.h"
+	"GeneroArchivo.h"
+
+1782699498 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\artistamenu.h
+	"ArtistaManager.h"
+
+1782699498 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\artistamanager.h
+	"ArtistaArchivo.h"
+
+1782699498 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\generomenu.h
+	"GeneroManager.h"
+
+1782699498 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\generomanager.h
+	"GeneroArchivo.h"
+
+1782699499 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\informesmenu.h
+	"InformesManager.h"
+
+1782699499 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\informesmanager.h
+	"SuscriptorArchivo.h"
+	"PlanArchivo.h"
+	"AccesoArchivo.h"
+	"CancionArchivo.h"
+	"ArtistaArchivo.h"
+	"GeneroArchivo.h"
+
+1782699498 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\configuracionmenu.h
+	"ConfiguracionManager.h"
+
+1782699498 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\configuracionmanager.h
+	<string>
+
+1782699498 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\artista.cpp
+	"Artista.h"
+	<cstring>
+
+1782699498 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\artistaarchivo.cpp
+	"ArtistaArchivo.h"
+	<cstdio>
+
+1782699498 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\artistamanager.cpp
+	"ArtistaManager.h"
+	<iostream>
+	<string>
+
+1782699498 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\artistamenu.cpp
+	"ArtistaMenu.h"
+	<iostream>
+
+1782699498 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\cancion.cpp
+	"Cancion.h"
+	<cstring>
+
+1782699498 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\cancionarchivo.cpp
+	"CancionArchivo.h"
+	<cstdio>
+
+1782699498 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\cancionmanager.cpp
+	"CancionManager.h"
+	<iostream>
+	<string>
+
+1782699498 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\cancionmenu.cpp
+	"CancionMenu.h"
+	<iostream>
+
+1782699498 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\configuracionmanager.cpp
+	"ConfiguracionManager.h"
+	"SuscriptorArchivo.h"
+	"CancionArchivo.h"
+	"ArtistaArchivo.h"
+	"AccesoArchivo.h"
+	"PlanArchivo.h"
+	"GeneroArchivo.h"
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<ctime>
+
+1782699498 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\configuracionmenu.cpp
+	"ConfiguracionMenu.h"
+	<iostream>
+
+1782699498 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\datosprueba.cpp
+	"DatosPrueba.h"
+	"Fecha.h"
+	"GeneroArchivo.h"
+	"ArtistaArchivo.h"
+	"PlanArchivo.h"
+	"CancionArchivo.h"
+	"SuscriptorArchivo.h"
+	"AccesoArchivo.h"
+
+1782699498 c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\datosprueba.h
+
+1782699498 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\fecha.cpp
+	"Fecha.h"
+	<cstdio>
+	<ctime>
+
+1782699498 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\genero.cpp
+	"Genero.h"
+	<cstring>
+
+1782699498 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\generoarchivo.cpp
+	"GeneroArchivo.h"
+	<cstdio>
+
+1782699498 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\generomanager.cpp
+	"GeneroManager.h"
+	<iostream>
+	<string>
+
+1782699498 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\generomenu.cpp
+	"GeneroMenu.h"
+	<iostream>
+
+1782699498 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\informesmanager.cpp
+	"InformesManager.h"
+	"Fecha.h"
+	<iostream>
+	<string>
+
+1782699499 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\informesmenu.cpp
+	"InformesMenu.h"
+	<iostream>
+
+1782699499 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\main.cpp
+	"DatosPrueba.h"
+	"App.h"
+
+1782699499 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\plan.cpp
+	"Plan.h"
+	<cstring>
+
+1782699499 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\planarchivo.cpp
+	"PlanArchivo.h"
+	<cstdio>
+
+1782699499 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\planmanager.cpp
+	"PlanManager.h"
+	<iostream>
+	<string>
+
+1782699499 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\planmenu.cpp
+	"PlanMenu.h"
+	<iostream>
+
+1782699499 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\suscriptor.cpp
+	"Suscriptor.h"
+	<cstring>
+
+1782699499 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\suscriptorarchivo.cpp
+	"SuscriptorArchivo.h"
+	<cstdio>
+
+1782699499 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\suscriptormanager.cpp
+	"SuscriptorManager.h"
+	<iostream>
+	<string>
+
+1782699499 source:c:\users\brsha.laptop-2oh3e59p\onedrive\desktop\tpi_gestionmusica\suscriptormenu.cpp
+	"SuscriptorMenu.h"
+	<iostream>
+
